@@ -1,0 +1,33 @@
+{
+  "name": "@nerisma/pi-theme-nerisma",
+  "version": "1.0.0",
+  "description": "Nerisma — a deep purple dark theme for pi",
+  "keywords": [
+    "pi-package",
+    "pi-themes",
+    "pi-coding-agent",
+    "themes",
+    "terminal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerisma/pi-theme-nerisma"
+  },
+  "bugs": {
+    "url": "https://github.com/nerisma/pi-theme-nerisma/issues"
+  },
+  "license": "MIT",
+  "author": "Nerisma",
+  "files": [
+    "themes",
+    "README.md"
+  ],
+  "pi": {
+    "themes": [
+      "./themes"
+    ]
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
