@@ -11,6 +11,8 @@ surface      #222244  — elevated panel
 muted        #78789B  — subdued text
 ```
 
+![nerisma theme preview](./preview.png)
+
 ## Installation
 
 ```bash
